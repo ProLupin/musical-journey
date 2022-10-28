@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(black,grey);
+    color: white;
+    font-family: 'Special Elite', cursive;
+}
+h1{
+    font-family: 'Rubik Moonrocks', cursive;
+    font-size: 50px;
+}
+#result{
+ width: 360px;
+ height:250px;
+ border:2px space white;
+}
